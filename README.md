@@ -10,20 +10,6 @@
 
 <br />
 
-## 📸 Screenshots
-
-<table>
-  <tr>
-    <td align="center"><strong>Desktop View</strong></td>
-    <td align="center"><strong>Mobile View</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://via.placeholder.com/800x450.png?text=Desktop+Screenshot" alt="App Screenshot Desktop"></td>
-    <td><img src="https://via.placeholder.com/300x600.png?text=Mobile+Screenshot" alt="App Screenshot Mobile"></td>
-  </tr>
-</table>
-> **Note:** Replace the placeholder images with actual screenshots of your application.
-
 ## ✨ Features & 🛠️ Technologies Used
 
 <table>
